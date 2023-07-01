@@ -41,7 +41,7 @@ We welcome contributions from the community to improve BODP. If you wish to cont
 If you encounter any problems or have suggestions for improvement, please open an issue on the GitHub repository. Provide a clear and detailed description of the issue or suggestion, and we will address it as soon as possible.
 
 ## License
-BODP is licensed under GPL-2.0. Please review [https://creativecommons.org/licenses/by/4.0] for more information.
+BODP is licensed under GPL-2.0. Please review [https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html] for more information.
 
 ## Contact
 
