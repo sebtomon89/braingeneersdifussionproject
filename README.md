@@ -1,4 +1,4 @@
-# Welcome to [Project Name]
+# Welcome to Brain Organoids Diffusion Project[BODP]
 
 Thank you for accessing the "read me" file for Brain Organoid Difussion Project(BODP) on GitHub! We appreciate your interest and would like to provide some essential information to help you navigate this project effectively.
 
